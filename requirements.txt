@@ -1,0 +1,6 @@
+pandas 
+numpy 
+streamlit 
+arize
+cv2
+matplotlib
